@@ -1,0 +1,12 @@
+{
+  "name": "html-css-components",
+  "version": "1.0.0",
+  "description": "Welcome to my collection of 🔥awesome🔥 HTML and CSS components! 💻 This repository contains a set of lightweight and responsive components that you can use to elevate your web design game. Each component is crafted with care, and designed to be easy to use and customize. 😎",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
